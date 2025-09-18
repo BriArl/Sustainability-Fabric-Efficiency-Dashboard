@@ -10,5 +10,19 @@
 - Compare waste % across designs
 - Interactive data visaulizations
 
-## Setup
-will add later :)
+---
+
+## Prereqs
+- Python 3.10+
+- Node.js 18+
+- npm (or yarn)
+- MongoDB (or local)
+
+---
+
+# Backend Setup
+1. Navigate to back end folder:
+
+cd backend
+
+BRB :)
