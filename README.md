@@ -1,4 +1,5 @@
 # Sustainability-Fabric-Efficiency-Dashboard
+- Fashion retailers can track sustainability metrics by comparing fabric efficiency across designs. This dashboard integrates design and analytics to support sustainable decision-making.
 
 ## Tech Stack
 - Backend: FastAPI + MongoDB
